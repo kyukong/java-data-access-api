@@ -1,2 +1,21 @@
-# java-data-access-api
-[프로젝트] 자바 Data Access API 활용 예제
+# Java Data Access API 이해하기
+
+## 🚀 목표
+- Data Access API 활용 방법의 차이 익히기
+- Data Access API 간의 내부 동작 과정의 차이 이해하기
+- Data Access API 간의 장단점 파악하기
+- Data Access API 들의 적절한 활용 예시 찾아보기
+
+## 📝 학습 내용
+- [ ] JDBC
+  - [ ] 활용 예제 코드 작성
+  - [ ] 내부 동작 과정 정리하기
+  - [ ] 장단점 및 적절한 활용 예시 찾아보기
+- [ ] MyBatis
+    - [ ] 활용 예제 코드 작성
+    - [ ] 내부 동작 과정 정리하기
+    - [ ] 장단점 및 적절한 활용 예시 찾아보기
+- [ ] JPA
+    - [ ] 활용 예제 코드 작성
+    - [ ] 내부 동작 과정 정리하기
+    - [ ] 장단점 및 적절한 활용 예시 찾아보기
